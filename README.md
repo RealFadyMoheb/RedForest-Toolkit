@@ -127,6 +127,7 @@ Run everything in a safe, isolated lab (e.g., air-gapped VMs, snapshots you can 
   - SpoolerScan.ps1
   - Invoke-NinjaCopy.ps1
   - UnderlayCopy.ps1
+  - Find-LocalAdminAccess.ps1
 - **Python/**
   - addcomputer.py
   - atexec.py
