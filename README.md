@@ -68,6 +68,8 @@ Run everything in a safe, isolated lab (e.g., air-gapped VMs, snapshots you can 
   - Snaffler.exe
   - hfs.exe
   - ntfsDump.exe
+  - SharpRDP.exe
+  - CleanRunMRU.exe
 - **PowerShell/**
   - ADACLScan.ps1
   - adconnect.ps1
