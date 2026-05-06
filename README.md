@@ -131,6 +131,7 @@ Run everything in a safe, isolated lab (e.g., air-gapped VMs, snapshots you can 
   - Invoke-NinjaCopy.ps1
   - UnderlayCopy.ps1
   - Find-LocalAdminAccess.ps1
+  - PatchRDP.ps1
 - **Python/**
   - addcomputer.py
   - atexec.py
