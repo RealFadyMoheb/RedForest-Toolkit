@@ -1,3 +1,6 @@
 [submodule "PowerShell/ADModule"]
 	path = PowerShell/ADModule
 	url = https://github.com/samratashok/ADModule.git
+[submodule "Python/Impacket"]
+	path = Python/Impacket
+	url = https://github.com/fortra/impacket.git
