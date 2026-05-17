@@ -164,6 +164,7 @@ Navigate through the categorized folders (`EXE`, `PowerShell`, `dlls`, etc.) to 
   - PatchRDP.ps1
 - **Python/**
   - Impacket
+  - PowerView.py
 - **txt/**
   - Amsi.txt
   - sbloggingbypass.txt
