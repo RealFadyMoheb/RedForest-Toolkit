@@ -100,6 +100,7 @@ Navigate through the categorized folders (`EXE`, `PowerShell`, `dlls`, etc.) to 
   - SharpRDP.exe
   - CleanRunMRU.exe
   - RemoteSessionEnum.exe
+  - SharpView.exe
 - **PowerShell/**
   - ADACLScan.ps1
   - adconnect.ps1
