@@ -1,0 +1,3 @@
+[submodule "PowerShell/ADModule"]
+	path = PowerShell/ADModule
+	url = https://github.com/samratashok/ADModule.git
