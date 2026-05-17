@@ -4,3 +4,6 @@
 [submodule "Python/Impacket"]
 	path = Python/Impacket
 	url = https://github.com/fortra/impacket.git
+[submodule "Python/Powerview.py"]
+	path = Python/Powerview.py
+	url = https://github.com/aniqfakhrul/powerview.py.git
