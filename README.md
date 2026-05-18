@@ -82,7 +82,6 @@ Navigate through the categorized folders (`EXE`, `PowerShell`, `dlls`, etc.) to 
   - Rubeus.exe
   - SafetyKatz.exe
   - SandboxDefender.exe
-  - sessionresume_eqkwLQWs
   - sqlcmd.exe
   - SQLRecon.exe
   - Sysmon.exe
