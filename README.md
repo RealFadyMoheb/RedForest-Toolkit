@@ -101,6 +101,7 @@ Navigate through the categorized folders (`EXE`, `PowerShell`, `dlls`, etc.) to 
   - RemoteSessionEnum.exe
   - SharpView.exe
   - adfind.exe
+  - ADExplorer64.exe
 - **PowerShell/**
   - ADACLScan.ps1
   - adconnect.ps1
