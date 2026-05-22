@@ -7,3 +7,6 @@
 [submodule "Python/Powerview.py"]
 	path = Python/Powerview.py
 	url = https://github.com/aniqfakhrul/powerview.py.git
+[submodule "Python/LdapRelayScan.py"]
+	path = Python/LdapRelayScan.py
+	url = https://github.com/aniqfakhrul/powerview.py.git
