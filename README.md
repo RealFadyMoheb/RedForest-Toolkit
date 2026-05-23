@@ -163,6 +163,7 @@ Navigate through the categorized folders (`EXE`, `PowerShell`, `dlls`, etc.) to 
   - UnderlayCopy.ps1
   - Find-LocalAdminAccess.ps1
   - PatchRDP.ps1
+  - ADModuleImport.ps1
 - **Python/**
   - Impacket
   - PowerView.py
