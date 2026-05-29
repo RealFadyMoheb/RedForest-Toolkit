@@ -102,6 +102,7 @@ Navigate through the categorized folders (`EXE`, `PowerShell`, `dlls`, etc.) to 
   - SharpView.exe
   - adfind.exe
   - ADExplorer64.exe
+  - SharpNamedPipePTH.exe
 - **PowerShell/**
   - ADACLScan.ps1
   - adconnect.ps1
@@ -164,6 +165,7 @@ Navigate through the categorized folders (`EXE`, `PowerShell`, `dlls`, etc.) to 
   - Find-LocalAdminAccess.ps1
   - PatchRDP.ps1
   - ADModuleImport.ps1
+  - Invoke-ImpersonateUser-PTH.ps1 
 - **Python/**
   - Impacket
   - PowerView.py
