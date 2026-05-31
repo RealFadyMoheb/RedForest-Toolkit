@@ -166,6 +166,7 @@ Navigate through the categorized folders (`EXE`, `PowerShell`, `dlls`, etc.) to 
   - PatchRDP.ps1
   - ADModuleImport.ps1
   - Invoke-ImpersonateUser-PTH.ps1 
+  - Invoke-WindowsSearch.ps1
 - **Python/**
   - Impacket
   - PowerView.py
