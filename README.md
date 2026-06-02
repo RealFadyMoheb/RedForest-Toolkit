@@ -167,6 +167,13 @@ Navigate through the categorized folders (`EXE`, `PowerShell`, `dlls`, etc.) to 
   - ADModuleImport.ps1
   - Invoke-ImpersonateUser-PTH.ps1 
   - Invoke-WindowsSearch.ps1
+  - Invoke-SMBClient.ps1
+  - Invoke-SMBEnum.ps1
+  - Invoke-SMBExec.ps1
+  - Invoke-WMIExec.ps1
+  - Invoke-TheHash.psd1
+  - Invoke-TheHash.ps1
+  - Invoke-TheHash.psm1
 - **Python/**
   - Impacket
   - PowerView.py
