@@ -171,6 +171,7 @@ Navigate through the categorized folders (`EXE`, `PowerShell`, `dlls`, etc.) to 
   - Impacket
   - PowerView.py
   - LdapRelayScan.py
+  - Hash_Calculator.py
 - **txt/**
   - Amsi.txt
   - sbloggingbypass.txt
